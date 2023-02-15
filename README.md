@@ -7,7 +7,11 @@ This repository is the implementation of [A Hierarchical Approach for Visual Sto
 2. pytorch >= 1.0.0
 
 <br>
-
+### Training
+```
+python train.py
+```
+<br>
 ### Citation
 
 ```
